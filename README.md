@@ -319,4 +319,3 @@ ROI는 특정 polygon 영역으로 정의되며,
 
 **Insu Lee**  
 Smart inventory / people tracking demo using YOLO, OpenCV, Tkinter, and Firebase RTDB.
->>>>>>> 2191162 (readme 수정)
